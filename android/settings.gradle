@@ -4,7 +4,12 @@ pluginManagement {
         mavenCentral()
         gradlePluginPortal()
     }
+    plugins {
+        // Add the Flutter Gradle plugin so "dev.flutter.flutter-gradle-plugin" can be resolved.
+        id "dev.flutter.flutter-gradle-plugin" version "1.0.0" apply false
+    }
 }
+
 dependencyResolutionManagement {
     repositoriesMode.set(RepositoriesMode.PREFER_PROJECT)
     repositories {
