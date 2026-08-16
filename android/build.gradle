@@ -1,21 +1,27 @@
-pluginManagement {
+buildscript {
     repositories {
         google()
         mavenCentral()
-        gradlePluginPortal()
     }
-    plugins {
-        // Add the Flutter Gradle plugin so "dev.flutter.flutter-gradle-plugin" can be resolved.
-        id "dev.flutter.flutter-gradle-plugin" version "1.0.0" apply false
+
+    dependencies {
+        // Use a compatible Android Gradle Plugin version. Adjust if your project needs a different one.
+        classpath 'com.android.tools.build:gradle:7.4.2'
     }
 }
-dependencyResolutionManagement {
-    repositoriesMode.set(RepositoriesMode.PREFER_PROJECT)
+
+allprojects {
     repositories {
         google()
         mavenCentral()
     }
 }
 
-rootProject.name = "colter_music"
-include ":app"
+rootProject.buildDir = '../build'
+subprojects {
+    project.buildDir = "${rootProject.buildDir}/${project.name}"
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}
