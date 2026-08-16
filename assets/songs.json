@@ -1,0 +1,164 @@
+{
+  "songs": [
+    {
+      "id": "1",
+      "title": "Я диско шар",
+      "artist": "Кишлак",
+      "album": "APFS",
+      "imageUrl": "https://via.placeholder.com/300?text=Kishiak+Disco",
+      "audioUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "lyrics": "Я диско шар, я светлый квадрат...",
+      "duration": 195
+    },
+    {
+      "id": "2",
+      "title": "ДВИНУЛСЯ НА ТЕБЕ",
+      "artist": "Кишлак",
+      "album": "APFS",
+      "imageUrl": "https://via.placeholder.com/300?text=Kishiak+APFS",
+      "audioUrl": "https://www.youtube.com/watch?v=9bZkp7q19f0",
+      "lyrics": "Двинулся на тебе, ты не знаешь...",
+      "duration": 210
+    },
+    {
+      "id": "3",
+      "title": "Я уёбываю в джаз",
+      "artist": "Кишлак",
+      "album": "APFS",
+      "imageUrl": "https://via.placeholder.com/300?text=Jazz",
+      "audioUrl": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+      "lyrics": "Я уёбываю в джаз...",
+      "duration": 220
+    },
+    {
+      "id": "4",
+      "title": "Музыка",
+      "artist": "Кишлак",
+      "album": "APFS",
+      "imageUrl": "https://via.placeholder.com/300?text=Muzyka",
+      "audioUrl": "https://www.youtube.com/watch?v=7qXXWfJHMGE",
+      "lyrics": "Музыка, музыка звучит...",
+      "duration": 200
+    },
+    {
+      "id": "5",
+      "title": "Самый лучший день",
+      "artist": "Кишлак",
+      "album": "APFS",
+      "imageUrl": "https://via.placeholder.com/300?text=Best+Day",
+      "audioUrl": "https://www.youtube.com/watch?v=iV7vSHPlWTw",
+      "lyrics": "Это самый лучший день...",
+      "duration": 215
+    },
+    {
+      "id": "6",
+      "title": "Ржавый",
+      "artist": "Кишлак",
+      "album": "APFS",
+      "imageUrl": "https://via.placeholder.com/300?text=Rzhavyy",
+      "audioUrl": "https://www.youtube.com/watch?v=y6OJ7sPG44U",
+      "lyrics": "Ржавый дом, ржавый свет...",
+      "duration": 205
+    },
+    {
+      "id": "7",
+      "title": "Эй",
+      "artist": "Кишлак",
+      "album": "APFS",
+      "imageUrl": "https://via.placeholder.com/300?text=Hey",
+      "audioUrl": "https://www.youtube.com/watch?v=k4V3Di_yrrw",
+      "lyrics": "Эй, эй, эй!...",
+      "duration": 180
+    },
+    {
+      "id": "8",
+      "title": "Накуримся, напьемся",
+      "artist": "Кишлак",
+      "album": "APFS",
+      "imageUrl": "https://via.placeholder.com/300?text=Party",
+      "audioUrl": "https://www.youtube.com/watch?v=9EunIVst3-E",
+      "lyrics": "Накуримся, напьемся...",
+      "duration": 225
+    },
+    {
+      "id": "9",
+      "title": "11:11",
+      "artist": "Кишлак",
+      "album": "APFS",
+      "imageUrl": "https://via.placeholder.com/300?text=1111",
+      "audioUrl": "https://www.youtube.com/watch?v=DXvTwvNvM_I",
+      "lyrics": "11:11, желание загадай...",
+      "duration": 210
+    },
+    {
+      "id": "10",
+      "title": "Эскапист",
+      "artist": "Кишлак",
+      "album": "APFS",
+      "imageUrl": "https://via.placeholder.com/300?text=Escapist",
+      "audioUrl": "https://www.youtube.com/watch?v=RQfEjDIsPqI",
+      "lyrics": "Я эскапист, беглец...",
+      "duration": 218
+    },
+    {
+      "id": "11",
+      "title": "Лягушачий блюз",
+      "artist": "Кишлак",
+      "album": "APFS",
+      "imageUrl": "https://via.placeholder.com/300?text=Frog+Blues",
+      "audioUrl": "https://www.youtube.com/watch?v=lrWEYjnNBqE",
+      "lyrics": "Лягушка поёт блюз...",
+      "duration": 230
+    },
+    {
+      "id": "12",
+      "title": "Грязь",
+      "artist": "Кишлак",
+      "album": "APFS",
+      "imageUrl": "https://via.placeholder.com/300?text=Mud",
+      "audioUrl": "https://www.youtube.com/watch?v=6E5LxQFGPXk",
+      "lyrics": "Грязь, грязь вокруг...",
+      "duration": 195
+    },
+    {
+      "id": "13",
+      "title": "Эхо",
+      "artist": "Кишлак",
+      "album": "APFS",
+      "imageUrl": "https://via.placeholder.com/300?text=Echo",
+      "audioUrl": "https://www.youtube.com/watch?v=w69I0YzwAGA",
+      "lyrics": "Эхо, эхо в ночи...",
+      "duration": 207
+    },
+    {
+      "id": "14",
+      "title": "51",
+      "artist": "Кишлак",
+      "album": "APFS",
+      "imageUrl": "https://via.placeholder.com/300?text=51",
+      "audioUrl": "https://www.youtube.com/watch?v=DmYKZ-PJ-48",
+      "lyrics": "51, это номер, это число...",
+      "duration": 198
+    },
+    {
+      "id": "15",
+      "title": "Alfa",
+      "artist": "Кишлак",
+      "album": "APFS",
+      "imageUrl": "https://via.placeholder.com/300?text=Alfa",
+      "audioUrl": "https://www.youtube.com/watch?v=KrAT1nqiJ5k",
+      "lyrics": "Alfa, первая буква...",
+      "duration": 212
+    },
+    {
+      "id": "16",
+      "title": "P.E.",
+      "artist": "Кишлак",
+      "album": "APFS",
+      "imageUrl": "https://via.placeholder.com/300?text=PE",
+      "audioUrl": "https://www.youtube.com/watch?v=5np3HFzsbqE",
+      "lyrics": "P.E. — это боль и страданье...",
+      "duration": 220
+    }
+  ]
+}
